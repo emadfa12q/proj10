@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Work Time Tracker</string>
+    <string name="accessibility_service_label">WorkTimeTracker Screenshot</string>
+    <string name="accessibility_service_description">این سرویس برای استفاده شخصی است و هنگام تغییر برنامه، اسکرین‌شات کوچک از فعالیت جدید ذخیره می‌کند.</string>
+</resources>
